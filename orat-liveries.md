@@ -45,6 +45,7 @@
 0724: \
 0824: Mountain Air\
 0924: Beaches\
+1024: Mountain Air\
 1224: Beaches
 
 ## 190x and 2001
