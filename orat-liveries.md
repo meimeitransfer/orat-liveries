@@ -36,17 +36,28 @@
 
 ## xx24
 
-0124: Mountain Air\
-0224: \
-0324: Coast\
-0424: Waves\
-0524: \
-0624: Mountain Lions \
-0724: \
-0824: Mountain Air\
-0924: Beaches\
-1024: Mountain Air\
-1224: Beaches
+### Mountain Air
+
+- 0124
+- 0824
+- 1024
+
+### Coast
+
+- 0324
+
+### Waves
+
+- 0424
+
+### Mountain Lions
+
+- 0624
+
+### Beaches
+
+- 0924
+- 1224
 
 ## 190x and 2001
 
