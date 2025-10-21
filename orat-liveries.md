@@ -56,6 +56,7 @@
 
 ### Beaches
 
+- 0724
 - 0924
 - 1224
 
@@ -77,7 +78,7 @@
 11012: Jellies (Sea Nettles)\
 11016: Wildflowers (California Poppies)\
 11018: Redwoods\
-11019: \
+11019: Dolphins\
 11022: Sea Slugs\
 11023: Deep Sea\
 11025: \
